@@ -89,7 +89,7 @@ This repository covers practical Web Engineering concepts and technologies intro
 
 ---
 
-## 📌 Laboratory Work
+## Laboratory Work
 
 Each laboratory is organized into its own directory under `LABs/`.
 
@@ -116,7 +116,7 @@ The goal is to maintain a **clean, organized, and version-controlled record** of
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Muhammad Anas Qadri**
 
