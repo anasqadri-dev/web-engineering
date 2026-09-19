@@ -1,3 +1,5 @@
+.node_modules/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -9,3 +11,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+*.mp4
+
+*.zip
